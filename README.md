@@ -15,7 +15,7 @@ Contact and communication details
 
 Target variable: y — whether the client subscribed (yes/no)
 
-🔧 Features Used
+🔧Features Used 
 age, job, marital, education, default, balance, housing, loan, contact, day, month, duration, campaign, pdays, previous, poutcome
 
 ✅ Tasks Performed
