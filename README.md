@@ -5,8 +5,7 @@ Built a Decision Tree Classifier using the Bank Marketing dataset to predict whe
 This project builds a Decision Tree Classifier to predict whether a customer will subscribe to a term deposit based on their demographic and behavioral data. The model uses the Bank Marketing dataset from the UCI Machine Learning Repository.
 
 📂 Dataset
-Source: UCI Bank Marketing Dataset
-
+Source:https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 Contains information on:
 
 Age, job, marital status, education, etc.
